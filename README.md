@@ -1,11 +1,26 @@
 # 🎯 CareerPath AI
 
-> Sistema inteligente de orientação de carreira em tecnologia baseado em Retrieval-Augmented Generation (RAG).
-
+### 1. Tela Inicial
 <p align="center">
-  <img src="assets/careerpath-demo.png" alt="CareerPath AI funcionando" width="850">
+  <img src="assets/careerpath-home.png" alt="Tela inicial do CareerPath AI" width="850">
 </p>
 
+### 2. Teste da Consulta RAG
+<p align="center">
+  <img src="assets/careerpath-rag-test.png" alt="Teste do RAG no CareerPath AI" width="850">
+</p>
+
+### 3. Resposta Gerada
+<p align="center">
+  <img src="assets/careerpath-response.png" alt="Resposta gerada pelo modelo" width="850">
+</p>
+
+### 4. Fontes Utilizadas
+<p align="center">
+  <img src="assets/careerpath-sources.png" alt="Fontes consultadas pelo RAG" width="850">
+</p>
+
+---
 ## 📌 Sobre o projeto
 
 O **CareerPath AI** é uma aplicação desenvolvida para auxiliar estudantes e profissionais na identificação de competências e conhecimentos necessários para diferentes trilhas de carreira na área de tecnologia.
